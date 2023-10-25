@@ -1,0 +1,18 @@
+header{
+    padding-top: 30px;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    cursor: pointer;
+    font-size: 22px;
+    color: #bbb ;
+    font-weight: bold;
+    border: none;
+    background-color: #333; 
+}
+button:hover{
+    color:#fff
+}

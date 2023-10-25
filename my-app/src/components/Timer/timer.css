@@ -1,0 +1,12 @@
+section{
+    width: 70%;
+    color:#bbb ;
+    margin: auto;
+    margin-top: 280px;
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+}
+section:hover{
+    color:#fff ;
+}
